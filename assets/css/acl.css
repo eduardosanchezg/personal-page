@@ -1,0 +1,67 @@
+/* ACL paper look overrides */
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.35;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2.2rem;
+}
+
+h2 {
+  font-size: 1.35rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+}
+
+nav {
+  margin-top: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+article {
+  max-width: 760px;
+}
+
+ol.publications {
+  padding-left: 1.2rem;
+}
+
+ol.publications li {
+  margin-bottom: 0.9rem;
+}
+
+.pub-title {
+  font-weight: bold;
+}
+
+.pub-authors {
+  font-style: normal;
+}
+
+.pub-venue {
+  font-style: italic;
+}
+
+.pub-links a {
+  margin-right: 0.6rem;
+}
+
+footer {
+  margin-top: 3rem;
+  font-size: 0.9em;
+  opacity: 0.8;
+}
